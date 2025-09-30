@@ -14,7 +14,7 @@ C’est un exemple pratique pour mieux comprendre la manipulation des pointeurs 
 Compilation
 
 Pour compiler le programme, utilisez la commande suivante :
-gcc liste.c -o liste
+gcc liste_simplement_chaine_circulaire.c -o liste
 
 Exécution
 
